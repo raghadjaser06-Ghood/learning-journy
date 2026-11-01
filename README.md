@@ -1,2 +1,2 @@
-My Journey App
+My git practice LOL
 
